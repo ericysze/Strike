@@ -6,11 +6,11 @@ Strike allows the user to:
 
 Locked state:
 
-<img src="https://raw.githubusercontent.com/ericysze/Strike/master/Images/Screen%20Shot%202016-03-18%20at%206.38.28%20PM.png" alt="alt text" width="450" height="600">
+<img src="https://raw.githubusercontent.com/ericysze/Strike/master/Images/Locked%20State.png">
 
 Unlocked state:
 
-<img src="https://raw.githubusercontent.com/ericysze/Strike/master/Images/Screen%20Shot%202016-03-18%20at%206.37.41%20PM.png" alt="alt text" width="450" height="600">
+<img src="https://raw.githubusercontent.com/ericysze/Strike/master/Images/Unlocked%20State.png">
 
 10 second video of protoype in action:
 https://drive.google.com/file/d/0B25trpFZ7elUaVpyQU9jamJiYWM/view?usp=sharing

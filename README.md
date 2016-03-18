@@ -6,9 +6,11 @@ Strike allows the user to:
 
 Locked state:                           Unlocked state:
 
-<img src="https://raw.githubusercontent.com/ericysze/Strike/master/Images/Locked%20State.png" width="350" height="500"> <img src="https://raw.githubusercontent.com/ericysze/Strike/master/Images/Unlocked%20State.png" width="350" height="500">
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="https://raw.githubusercontent.com/ericysze/Strike/master/Images/Locked%20State.png" width="350" height="500">  |   <img src="https://raw.githubusercontent.com/ericysze/Strike/master/Images/Unlocked%20State.png" width="350" height="500">
 
 
 

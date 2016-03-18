@@ -16,7 +16,7 @@ Features currently being built/fixed:
   - notification of who has unlocked the door at that time of day
   - allow building owners to give out digital 'keys' as access to incoming tenants
   - adding capacitors to allow door strike to lock & unlock correctly for the possibility of voltage spikes and dips.
-  - 
+
 Future features:
   - attach a camera to the Particle Photon for photo and video capabilities
 
